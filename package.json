@@ -8,6 +8,7 @@
     "start": "node index.js",
     "test": "node test.js"
   },
+  "files": ["index.js", "test.js", "package.json"],
   "author": "HarukaYamamoto0 <antonioalbert344@gmail.com>",
   "license": "MIT"
 }
